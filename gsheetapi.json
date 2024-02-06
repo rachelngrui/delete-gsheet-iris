@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pacific-diode-413507",
+  "private_key_id": "cb0a29bc6f34e3b53e52495fb06b31df99b1db14",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDVKeI2sx+EJHQj\n6yR1iK5BoaWLwdN+LWyuGogWUQyfan05QHrSFc+sYRq5rOFa+pa2NecxJVRRJjEY\ny9aRgGwvEjRIfL4y4dIEHkj2uKKNNMGlS/riuoMBTIAq+JUki7BSO9p9qB4mDXJk\ngrqasBTzQSCRyXNw2w9dj/0rhuWqlnyHHWCwaXC7BKLQV2G7HFLAdOYisXmjjBKO\nv/9mtATS5NCNNXADtdpo/u6WhLKfHkQu66+QpTi25Px1NlctB5sMi0QePe8zt6qu\nVm5akq9jNwSz+ri7lDV4ffb39w7HSc9L505u6WiOD+k7OPYHo884qbQQXjl3hwwd\nQ9blHkEnAgMBAAECgf8XUH1tfin0Sghp5U4XjNuCUivJHWoEYvOAF2bLChJXXU5U\n9Lh6Qeh08in6JO6BBOd3Bm5C8dJHDeZQz/qn72Plwhf11a734bsWuDlCwu8EgsCr\nU6QdKEkr2zIpgQbO+HhQhjtfgwPJJa9dTu8Z/ChOctEdIOt/bHZBxX3rRNXZ0miC\nDXl98q86+EOR1VUgMCyNg/z0dk27Ggl88BgM6LNO115Bc71W53tmcsWoeGxMKCjk\nZ17L20LnJxkZsuFFWoUjOYUIV75hwIJCdHSLBeB9tHq6pC8qrzMbzHg0xX1ll3yu\nXQBXEEQ8HlDjUYfkgq7KBWH6PCkvaXzIFkuz74ECgYEA/qBPPHIBkArhwIev5ZlW\nNHKOVn5F0bFLMDlvg31ZTNtaopBvbdX34a7pit21ppmr4fcpVBIOA+g044BD7EK6\n58baeRzbbcF8T72Esf2yEXq4zTHxiUb7h7J1qSi/cOCTuIOLi+f0ZiqkLxsvpcpG\naChthKlrWuvwc0DTGwKlK7ECgYEA1lBOTPqK1eongexWF+9MhT5z5sTgJi6MJhWL\nKbuc/yBNI/VGDTokLM0Bh1IFKZJuNA4JGao7QCZUqO2pdFXg5aNz7Tl/+tJFf2gC\nDqrKfce+fK6laBE55oYMKTGV0zhASyUnzmHK5DtUZ8fzMuGO/8CoU/y6v0ZZlxcw\nBvKk6FcCgYA39H61J9CUGPAXYToUWKgLComhFEq/lBiT1mtdF/TB4Qp/4wG5v2Wj\n4M5Nx/8dR3PwSmJ4qScPUL4eqJdEmj18pcRpDSBjdDufQmSgwMGa+b8WyLztj/3C\nikM1E1FOuut7htzpt+WLdh9ygqTr6BGk3g2DM7/10RecHEjIDMLDYQKBgG9HYXDN\nArvSClOG0Kk64sOoyut/PFf3AWRg+VJhDULXldZe69HAZ7ovdGS8LNwKIVi8FPOT\nlZJYlMrmJH+4e78hIPeDTLWC6v0dlzvgaKXoyjrZQB+KGkNdRQE6su3qnk+makXa\nN0xMliYRB3Fa9zJK6dw6NQlOUQSH0LM62G+fAoGAKzuAtSWZfiJ8W5XR2WHdApnN\nJE7Uu7gsNTjM6JY0pNv5y8lSfHu86TGDuXiJCimuRvQGTPkASw+h1kpGsDLmWYGW\nk2sReUw/jfhNSG66khPSFswAC1dDZ/MN6bZjSRmKhoVKgKyU37fIX5z+qdUyLJfJ\nFDD2k90usQOkokYjO1M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets-api@pacific-diode-413507.iam.gserviceaccount.com",
+  "client_id": "110836185846835226583",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets-api%40pacific-diode-413507.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
